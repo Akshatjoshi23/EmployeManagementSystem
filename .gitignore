@@ -1,0 +1,6 @@
+target/
+*.class
+*.mv.db
+*.trace.db
+*.log
+.DS_Store
